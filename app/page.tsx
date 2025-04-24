@@ -179,7 +179,7 @@ export default function Home() {
       {/* Member 2 */}
       <div className="bg-gray-100 p-4 rounded-xl text-center shadow-sm">
         <h3 className="text-lg font-semibold text-gray-700 mb-2">Naman Katare</h3>
-        <p className="text-sm text-gray-600">Reg No:12307760</p>
+        <p className="text-sm text-gray-600">Reg No:12323443</p>
         <p className="text-sm text-gray-600">Roll No: 63</p>
       </div>
   </div>

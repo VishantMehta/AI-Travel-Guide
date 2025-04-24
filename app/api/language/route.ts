@@ -1,7 +1,7 @@
 import { GoogleGenerativeAI, HarmCategory, HarmBlockThreshold } from "@google/generative-ai"
 
 // Create a Google Generative AI client
-const genAI = new GoogleGenerativeAI(process.env.GOOGLE_API_KEY || "key")
+const genAI = new GoogleGenerativeAI(process.env.GOOGLE_API_KEY || "AIzaSyA5K2KSL2YojX48lLkewrhwIlhU_QjyXm4")
 
 // IMPORTANT: Set the runtime to edge for streaming responses
 export const runtime = "edge"
